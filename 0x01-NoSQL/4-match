@@ -1,1 +1,2 @@
-#!/usr/bin/env bash
+// lists all documents with that maches a k/v
+db.school.find({'name': 'Holberton school'})
